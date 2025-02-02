@@ -21,7 +21,7 @@ const Hero = () => {
           {/* Resume Link Button */}
           <div className="mt-5">
             <a
-              href="https://docs.google.com/document/d/1ZTlJ0J0RR1bfD5MPuCbu2W2haUAVQw6Kjik_kVaa8JI/edit?tab=t.0" // Replace with your actual Google Drive link
+              href="https://drive.google.com/file/d/1AWDmZra6YmqwgPhaInGNXyLuXCQS6Flk/view" // Replace with your actual Google Drive link
               target="_blank"  // To open in a new tab
               className="bg-[#915EFF] text-white font-semibold py-2 px-5 rounded-lg shadow-lg hover:bg-[#7a4fe0] transition-all duration-300"
             >
@@ -34,7 +34,8 @@ const Hero = () => {
         <div className="relative w-44 h-44 rounded-full overflow-hidden border-4 border-[#915EFF] shadow-lg">
           <img src={profilePic} alt="Anita Saini" className="w-full h-full object-cover rounded-full" />
         </div>
-      </div>
+ 
+</div>
 
       {/* Scroll Down Indicator */}
       <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
