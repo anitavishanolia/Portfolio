@@ -281,7 +281,7 @@ const projects = [
     ],
     image:
       "https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1715085404/catalog/1661763302758420480/kzgqqljpmsiwxtsu9ajq.jpg",
-    source_code_link: "https://github.com/anitavishanolia/HireSpot",
+    source_code_link: "https://github.com/anitavishanolia/ChatDoc",
   },
   {
     name: "HireSpot",
@@ -294,7 +294,7 @@ const projects = [
     ],
     image:
       "https://media.geeksforgeeks.org/wp-content/uploads/20240225123246/Screenshot-2024-02-25-123226.jpg",
-    source_code_link: "https://github.com/anitavishanolia/ChatDoc",
+      source_code_link: "https://github.com/anitavishanolia/HireSpot",
   },
   {
     name: "Image-Generator",
