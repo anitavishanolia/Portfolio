@@ -281,7 +281,7 @@ const projects = [
     ],
     image:
       "https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1715085404/catalog/1661763302758420480/kzgqqljpmsiwxtsu9ajq.jpg",
-    source_code_link: "https://github.com/anitavishanolia/chatpdf",
+    source_code_link: "https://chatpdf-seven-weld.vercel.app/",
   },
   {
     name: "HireSpot",
@@ -294,7 +294,7 @@ const projects = [
     ],
     image:
       "https://media.geeksforgeeks.org/wp-content/uploads/20240225123246/Screenshot-2024-02-25-123226.jpg",
-      source_code_link: "https://github.com/anitavishanolia/HireSpot",
+      source_code_link: "https://job-linker-xoes.onrender.com/",
   },
   {
     name: "Image-Generator",
@@ -307,7 +307,7 @@ const projects = [
     ],
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ZUJvLI_D0RmUcDWlmKWk86h3V2ZtBtJJFQ&s",
-    source_code_link: "https://github.com/anitavishanolia/ImageGenerator",
+    source_code_link: "https://client-eight-topaz.vercel.app/",
   },
   {
     name: "BookStore",
@@ -334,7 +334,7 @@ const projects = [
     image:
       "https://img.freepik.com/free-vector/user-login-landing-page-with-memphis-design_23-2148267062.jpg",
     source_code_link:
-      "https://github.com/anitavishanolia/Password-manager-using-react-Tailwind-CSS",
+      "https://password-manager-using-react-tailwind-css.vercel.app/",
   },
   {
     name: "FlightPath",
