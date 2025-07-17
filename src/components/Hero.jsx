@@ -21,7 +21,7 @@ const Hero = () => {
           {/* Resume Link Button */}
           <div className="mt-5">
             <a
-              href="https://drive.google.com/file/d/1s0sz8XCtqKZJfov2Mw8o807-V6X2bs5S/view?usp=drive_link" // Replace with your actual Google Drive link
+              href="https://drive.google.com/file/d/1tOd9W7JmXH9sRXxA_NWnxpKo7mgtxA6d/view?usp=drive_link" // Replace with your actual Google Drive link
               target="_blank"  // To open in a new tab
               className="bg-[#915EFF] text-white font-semibold py-2 px-5 rounded-lg shadow-lg hover:bg-[#7a4fe0] transition-all duration-300"
             >
